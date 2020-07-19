@@ -1,0 +1,101 @@
+<!-- @format -->
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Shubham's Personal Site</title>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+
+  <body>
+    <table cellspacing="20">
+      <tr>
+        <td>
+          <img src="shubham.jpg" alt="shubham" height="100" width="100" />
+        </td>
+        <td>
+          <h1>Shubham Gupta</h1>
+          <p>
+            <em>
+              Student
+              <strong><a href="https://puchd.ac.in/">at PU</a> </strong></em
+            >
+          </p>
+          <p>I am a blockchain developer</p>
+        </td>
+      </tr>
+    </table>
+
+    <hr />
+    <h3>Education</h3>
+    <ul>
+      <li>Asha Modern School</li>
+      <li><a href="http://www.gjust.ac.in/">GJU</a></li>
+      <ul>
+        <li>Btech</li>
+      </ul>
+    </ul>
+
+    <hr />
+
+    <h3>Study Experience</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Dates</th>
+          <th>Course</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2014-2018</td>
+          <td>Btech</td>
+        </tr>
+        <tr>
+          <td>2018-2020</td>
+          <td>ME</td>
+        </tr>
+      </tbody>
+      <tfoot></tfoot>
+    </table>
+
+    <hr />
+
+    <h3>Skills</h3>
+
+    <table>
+      <tr>
+        <td>
+          <table cellspacing="10">
+            <tr>
+              <td>Blockchain</td>
+              <td>4</td>
+            </tr>
+            <tr>
+              <td>WebDev</td>
+              <td>2</td>
+            </tr>
+          </table>
+        </td>
+
+        <td>
+          <table cellspacing="10">
+            <tr>
+              <td>Painting</td>
+              <td>1</td>
+            </tr>
+            <tr>
+              <td>Photography</td>
+              <td>3</td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+
+    <hr />
+    <a href="hobbies.html">My hobbies</a>
+    <br />
+    <a href="contacts.html">Contact me</a>
+  </body>
+</html>
